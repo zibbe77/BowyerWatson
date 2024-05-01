@@ -1,0 +1,1 @@
+cc BowyerWatsonTre.c $(pkg-config --libs --cflags raylib) -o run
